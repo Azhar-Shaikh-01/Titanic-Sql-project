@@ -40,13 +40,9 @@ To run the project, you need:
 
 The `analysis_queries.sql` file contains a collection of SQL queries for conducting various analyses on the Titanic dataset. The queries cover areas such as survival rates, demographic distributions, fare analysis, and more.
 
-## Contributing
 
-Contributions to enhance or expand the project are welcome. Feel free to fork the repository, make changes, and create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
----
-comprehensive information about the project.
+
+
